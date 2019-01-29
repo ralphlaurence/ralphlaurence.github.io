@@ -1,0 +1,93 @@
+h1 {
+    color: azure;
+    text-transform:uppercase;
+    font-size: 30px
+}
+
+body {
+    background-color: #D3B88C
+}
+
+.container {
+    background-color: #656256;
+}
+
+#Education {
+    margin-top: 5px
+}
+
+h5 {
+    color: beige;
+    font-size: 18px;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+h4 {
+    color: antiquewhite;
+}
+
+h3 {
+    color: beige;
+}
+
+h6 {
+    outline-color: aliceblue;
+}
+
+#right-col h2 {
+    font-size: 3cm;
+}
+
+h6 {
+    color: #F4F2F3;
+}
+.rl {
+    border-radius: 50%;
+}
+
+.fb {
+    height: 20px;
+    width: 20px;
+}
+
+#navBar ul {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  background-color: #9EBC9F;
+}
+
+li a {
+  display: block;
+  color: #230903;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+#navBar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 0;
+}
+
+#IME{
+    background-color: #230903;
+    color: #EEEEEE;
+    margin-bottom: 3;
+    text-align: center;
+    
+    
+        
+
+        
+        
+        
+        
