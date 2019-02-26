@@ -5,29 +5,33 @@ h1 {
 }
 
 body {
-    background-color: #D3B88C
+    background-color:#FFB6C1;
 }
 
 .container {
-    background-color: #656256;
+    background-color: #EE9480;
 }
 
 #Education {
     margin-top: 5px
 }
 
+
 h5 {
-    color: beige;
+    color: black;
     font-size: 18px;
+    font-style: ="Times New Roman";
 }
 
 h2 {
-    color: aliceblue;
+    color: black;
+    font-style: ="Times New Roman";
 }
 
 h4 {
     color: antiquewhite;
 }
+
 
 h3 {
     color: beige;
@@ -57,12 +61,12 @@ h6 {
   list-style-type:none;
   margin: 0;
   padding: 0;
-  background-color: #9EBC9F;
+  background-color: #EE9480;
 }
 
 li a {
   display: block;
-  color: #230903;
+  color: #232C33;
   padding: 8px 16px;
   text-decoration: none;
 }
@@ -79,7 +83,7 @@ li a:hover {
 }
 
 #IME{
-    background-color: #230903;
+    background-color: #232C33;
     color: #EEEEEE;
     margin-bottom: 3;
     text-align: center;
